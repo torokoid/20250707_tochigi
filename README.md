@@ -315,7 +315,7 @@ p.note { display: none; }
 <a href="20250707_118.JPG" target="_blank"><img src="20250707_118.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_119.JPG" target="_blank"><img src="20250707_119.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">レース終盤になって、同じクラスのこの2台がバトル始めました<br>結局後ろから来た赤が抜きました</span></h2>
+<h2><span class="yellow">レース終盤になって、同じクラスのこの2台がバトル始めました<br>5周以上のバトルの結果、結局後ろから来た赤が抜きました</span></h2>
 <a href="20250707_120.JPG" target="_blank"><img src="20250707_120.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_121.JPG" target="_blank"><img src="20250707_121.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_122.JPG" target="_blank"><img src="20250707_122.JPG" alt="サンプル画像" width="900" /></a>
