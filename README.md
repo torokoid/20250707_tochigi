@@ -140,9 +140,10 @@ p.note { display: none; }
 <h2><span class="yellow">6日の耐久レースに向けてピットは忙しいそう</span></h2>
 <a href="20250707_004.JPG" target="_blank"><img src="20250707_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_005.JPG" target="_blank"><img src="20250707_005.JPG" alt="サンプル画像" width="900" /></a>
-    
+
+<!--
 <h2><span class="yellow">出展者パスでサーキットに潜り込みました</span></h2>
-<a href="20250707_006.JPG" target="_blank"><img src="20250707_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250707_006.JPG" target="_blank"><img src="20250707_006.JPG" alt="サンプル画像" width="900" /></a>-->
     
 <h2><span class="yellow">とりあえず資材の搬入も終えて、船岡駅近くの拠点に戻ります</span></h2>
 <a href="20250707_007.JPG" target="_blank"><img src="20250707_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -160,7 +161,7 @@ p.note { display: none; }
 <a href="20250707_013.JPG" target="_blank"><img src="20250707_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_014.JPG" target="_blank"><img src="20250707_014.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">本来の入場料はこの価格</span></h2>
+<h2><span class="yellow">本来の入場料はこの価格、出店者パスで入場したので無料でした</span></h2>
 <a href="20250707_015.JPG" target="_blank"><img src="20250707_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_016.JPG" target="_blank"><img src="20250707_016.JPG" alt="サンプル画像" width="900" /></a>
     
@@ -284,9 +285,10 @@ p.note { display: none; }
 <a href="20250707_093.JPG" target="_blank"><img src="20250707_093.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_094.JPG" target="_blank"><img src="20250707_094.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_095.JPG" target="_blank"><img src="20250707_095.JPG" alt="サンプル画像" width="900" /></a>
-    
+
+<!--
 <h2><span class="yellow">本戦前は晴れ渡って、炎天下でのスタート</span></h2>
-<a href="20250707_096.JPG" target="_blank"><img src="20250707_096.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250707_096.JPG" target="_blank"><img src="20250707_096.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20250707_097.JPG" target="_blank"><img src="20250707_097.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_098.JPG" target="_blank"><img src="20250707_098.JPG" alt="サンプル画像" width="900" /></a>
     
@@ -390,8 +392,8 @@ p.note { display: none; }
 
    
 <br><br>
-<h2><span class="yellow">今日のBGMは Rod Stewart, Lionel Richie, Elton John, Bee Gees, Journey, Billy Joel - Best Soft Rock 70s 80s 90s</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oleVc6Ng9TA?si=DxwdqnjuOZWO9igt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">今日のBGMは เพลงรักที่ดีที่สุดในปี 2025 | ทำนองที่จริงใจสำหรับช่วงเวลาอันมหัศจรรย์</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DJXGgmI1bCg?si=MAUKpB1OmbhU_0uP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
