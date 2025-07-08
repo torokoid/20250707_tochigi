@@ -388,7 +388,7 @@ p.note { display: none; }
     
 <br><br><br>
 
-<h2><span class="yellow">5日４時間耐久の予選動画集、画像クリックでYouTubeリンクに飛びます</span></h2>
+<h2><span class="yellow">7月5日４時間耐久の予選動画集、画像クリックでYouTubeリンクに飛びます</span></h2>
 <a href="https://studio.youtube.com/channel/UC1NZSWr3450vnBIuAILogFg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank"><img src="20250705_001.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br>
