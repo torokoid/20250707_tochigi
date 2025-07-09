@@ -388,7 +388,7 @@ p.note { display: none; }
     
 <br><br><br>
 
-<h2><span class="yellow">7月5,6日４時間耐久の予選、本戦動画集、画像クリックでYouTubeリンクに飛びます</span></h2>
+<h2><span class="yellow">7月5,6日４時間耐久の予選、本戦動画集、画像クリックでYouTubeリンクに飛びます<br>時系列に並べた動画集です、かなり大量にあるので流し見ちゃってください</span></h2>
 <a href="https://torokoid.github.io/20250705_SUGO/" target="_blank"><img src="20250705_001.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br>
