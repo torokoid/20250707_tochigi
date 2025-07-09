@@ -387,10 +387,10 @@ p.note { display: none; }
 <a href="20250707_160.JPG" target="_blank"><img src="20250707_160.JPG" alt="サンプル画像" width="900" /></a>
     
 <br><br><br>
-<!--
-<h2><span class="yellow">7月5日４時間耐久の予選動画集、画像クリックでYouTubeリンクに飛びます</span></h2>
-<a href="https://studio.youtube.com/channel/UC1NZSWr3450vnBIuAILogFg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank"><img src="20250705_001.jpg" alt="サンプル画像" width="900" /></a>
--->
+
+<h2><span class="yellow">7月5,6日４時間耐久の予選、本戦動画集、画像クリックでYouTubeリンクに飛びます</span></h2>
+<a href="https://torokoid.github.io/20250705_SUGO/" target="_blank"><img src="20250705_001.jpg" alt="サンプル画像" width="900" /></a>
+
 <br><br><br><br><br><br><br><br><br>
 
    
