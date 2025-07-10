@@ -137,7 +137,7 @@ p.note { display: none; }
 <h2><span class="yellow">5日の屋台出店の準備でSUGOに移動します</span></h2>
 <a href="20250707_003.JPG" target="_blank"><img src="20250707_003.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">6日の耐久レースに向けてピットは忙しいそう</span></h2>
+<h2><span class="yellow">5日の耐久レースに向けてピットは忙しいそう</span></h2>
 <a href="20250707_004.JPG" target="_blank"><img src="20250707_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_005.JPG" target="_blank"><img src="20250707_005.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -149,10 +149,10 @@ p.note { display: none; }
 <a href="20250707_007.JPG" target="_blank"><img src="20250707_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_008.JPG" target="_blank"><img src="20250707_008.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">5日の綺麗な夜景はここからの景色</span></h2>
+<h2><span class="yellow">4日の綺麗な夜景はここからの景色</span></h2>
 <a href="20250707_009.JPG" target="_blank"><img src="20250707_009.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">6日の予選は雨のスタート、TVも来ています</span></h2>
+<h2><span class="yellow">5日の予選は雨のスタート、TVも来ています</span></h2>
 <a href="20250707_010.JPG" target="_blank"><img src="20250707_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_011.JPG" target="_blank"><img src="20250707_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250707_012.JPG" target="_blank"><img src="20250707_012.JPG" alt="サンプル画像" width="900" /></a>
